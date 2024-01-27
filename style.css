@@ -58,6 +58,11 @@ img{
         height: 350px;
     }
 }
+@media (min-width: 650px) and (max-width: 1325px ){
+   a{
+       padding: 5px;
+   }
+}
 .texto_imagen{
     text-align: center;
 }
