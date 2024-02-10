@@ -77,10 +77,8 @@ img{
     padding: 5px;
     justify-content: space-between;
     text-align: center;
-    font-size: 25px;
     color: rgba (0,0,0,.6);
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
 }
 .menu_enlaces:hover{
     text-decoration: underline;
